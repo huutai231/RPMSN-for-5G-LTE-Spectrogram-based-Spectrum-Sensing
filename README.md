@@ -11,4 +11,4 @@ Huu-Tai Nguyen, Hai-Trang Phuoc Dang and Thien Huynh-The, "A Resolution-Preservi
 
 The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/huutai23012003/spectrum-sesing-dataset/data). Please report if it is not available.
 
-If there are any errors or topics that need to be discussed, please contact Huu-Tai Nguyen via email at n.huutai231@gmail.com.
+If there are any errors or topics that need to be discussed, please contact [Huu-Tai Nguyen](https://github.com/huutai231) via email at n.huutai231@gmail.com.
